@@ -18,5 +18,5 @@
 - Personal Profile (React.js)
 
 ## Contact Information
-Email: sunyiran0817@gmail.com
-[LinkedIn](https://www.linkedin.com/in/yiran-sun-jerry/)
+- Email: sunyiran0817@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yiran-sun-jerry/)
