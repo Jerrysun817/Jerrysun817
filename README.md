@@ -1,4 +1,5 @@
 # Currently seeking opportunity in software development Co-op 2023 Summer
+
 ## Who am I
 - 👋 Hi, I’m @Jerrysun817
 - 👀 I’m interested in game developement, web design and mobile app design.
@@ -15,3 +16,6 @@
 ## Current Project
 - UBC SafeWalk Mobile App (React Native, Expo)
 - Personal Profile (React.js)
+
+## Contact
+Email: sunyiran0817@gmail.com
