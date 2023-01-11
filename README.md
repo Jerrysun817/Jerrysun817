@@ -17,5 +17,6 @@
 - UBC SafeWalk Mobile App (React Native, Expo)
 - Personal Profile (React.js)
 
-## Contact
+## Contact Information
 Email: sunyiran0817@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yiran-sun-jerry/)
