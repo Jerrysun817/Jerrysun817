@@ -10,3 +10,7 @@
 - C
 - React.js
 - HTML/CSS/Javascript
+
+## Current Project
+- Currently working on UBC SafeWalk Mobile App (React Native, Expo)
+- Personal Profile (React.js)
