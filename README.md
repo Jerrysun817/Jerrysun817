@@ -1,3 +1,4 @@
+#### Currently seeking opportunity in software development
 ## Who am I
 - 👋 Hi, I’m @Jerrysun817
 - 👀 I’m interested in game developement, web design and mobile app design.
