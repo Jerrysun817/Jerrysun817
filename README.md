@@ -7,11 +7,12 @@
 
 ## Skills
 - Java
-- Python
-- C++
 - C
 - React.js
 - HTML/CSS/Javascript
+- Python
+- C++
+
 
 ## Current Project
 - UBC SafeWalk Mobile App (React Native, Expo)
