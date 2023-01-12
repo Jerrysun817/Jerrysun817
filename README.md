@@ -9,6 +9,7 @@
 - Java
 - C
 - React.js
+- Node.js
 - HTML/CSS/Javascript
 - Python
 - C++
