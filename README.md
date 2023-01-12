@@ -8,17 +8,16 @@
 ## Skills
 - Java
 - C
-- React.js
-- Node.js
 - HTML/CSS/Javascript
 - Python
 - C++
+- React.js
+- Node.js
 
-
-## Current Project
-- UBC SafeWalk Mobile App (React Native, Expo)
-- AMS Mirror Game Project (Node.js)
-- Personal Profile (React.js)
+## Current Projects
+- UBC SafeWalk Mobile App (**React Native, Expo**)
+- AMS Mirror Game Project (**Node.js**)
+- Personal Profile (**React.js**)
 
 ## Contact Information
 - Email: sunyiran0817@gmail.com
