@@ -16,6 +16,7 @@
 
 ## Current Project
 - UBC SafeWalk Mobile App (React Native, Expo)
+- AMS Mirror Game Project (Node.js)
 - Personal Profile (React.js)
 
 ## Contact Information
