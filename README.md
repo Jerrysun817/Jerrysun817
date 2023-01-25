@@ -13,6 +13,8 @@
 - C++
 - React.js
 - Node.js
+- SystemVerilog
+- ARM assembly
 
 ## Current Projects
 - UBC SafeWalk Mobile App (**React Native, Expo**)
