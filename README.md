@@ -19,7 +19,6 @@
 ## Current Projects
 - UBC SafeWalk Mobile App (**React Native, Expo**)
 - AMS Mirror Game Project (**Node.js**)
-- Personal Profile (**React.js**)
 
 ## Contact Information
 - Email: sunyiran0817@gmail.com
