@@ -12,9 +12,10 @@
 - Python
 - C++
 - React.js
+- React Native
 - Node.js
 - SystemVerilog
-- ARM assembly
+- ARM64
 
 ## Current Projects
 - UBC SafeWalk Mobile App (**React Native, Expo**)
